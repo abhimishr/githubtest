@@ -1,0 +1,1 @@
+df <- read.csv("path/to/folder/file.csv")
